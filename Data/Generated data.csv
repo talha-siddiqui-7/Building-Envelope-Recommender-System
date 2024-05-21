@@ -1,0 +1,101 @@
+Building type,Building climate,Building area,Wall U value,Roof U value,Wall Insulation,Wall Insulation thickness,Roof Insulation,Roof insulation thickness,Window U value,Window Glazing
+Single family house,Humid subtropical,158,0.12,0.07,PIR insulation board,0.239,EPS60- graphite,0.32,0.511,Triple
+Apartment Building,Temperate oceanic climate,873,0.12,0.11,Cellulose,0.206,Glass mineral wool,0.336,0.539,Triple
+Apartment Building,Mediterranean,510,0.15,0.17,Expanded Polysterene,0.249,EPS60- graphite,0.279,0.544,Triple
+Single family house,Humid continental,758,0.22,0.07,EEPS (033),0.239,EEPS (033),0.274,0.551,Triple
+Educational,Temperate oceanic climate,289,0.14,0.1,Earth Wool,0.203,Polyiso foam,0.3,0.551,Triple
+Apartment Building,Humid subtropical,491,0.21,0.1,Cellulose,0.206,Expanded Polysterene,0.289,0.541,Triple
+Apartment Building,Mediterranean,169,0.12,0.19,Rockwool,0.286,EEPS (033),0.327,0.595,Triple
+Single family house,Humid continental,152,0.2,0.12,Expanded Polysterene,0.226,Cotton wool,0.347,0.566,Triple
+Single family house,Mediterranean,300,0.25,0.09,Rockwool,0.23,Polyurethane,0.335,0.56,Triple
+Educational,Temperate oceanic climate,815,0.16,0.07,EEPS (033),0.216,XPS,0.305,0.566,Triple
+Single family house,Humid continental,644,0.15,0.07,Biobased,0.268,Polyurethane,0.292,0.583,Triple
+Single family house,Temperate oceanic climate,547,0.21,0.19,Cellulose,0.203,Rockwool,0.316,0.535,Triple
+Educational,Humid subtropical,192,0.21,0.15,PIR insulation board,0.242,Rockwool,0.28,0.525,Triple
+Single family house,Temperate oceanic climate,433,0.19,0.07,PIR insulation board,0.239,Mineral Wool,0.274,0.556,Triple
+Educational,Mediterranean,666,0.13,0.07,Glass mineral wool,0.263,Polyiso foam,0.264,0.596,Triple
+Educational,Humid continental,626,0.23,0.13,Spray foam,0.217,XPS,0.304,0.574,Triple
+Educational,Temperate oceanic climate,538,0.2,0.12,PSE graphite,0.277,EPS60- graphite,0.288,0.537,Triple
+Single family house,Humid continental,996,0.2,0.19,Graphite EPS,0.279,Glass mineral wool,0.35,0.518,Triple
+Educational,Humid subtropical,170,0.18,0.14,Graphite EPS,0.279,Polyurethane,0.288,0.51,Triple
+Single family house,Temperate oceanic climate,295,0.22,0.13,Graphite EPS,0.286,Cotton wool,0.309,0.553,Triple
+Apartment Building,Humid subtropical,381,0.25,0.07,Cellulose,0.294,Blown wool,0.345,0.565,Triple
+Apartment Building,Temperate oceanic climate,755,0.2,0.08,PSE graphite,0.223,EEPS (033),0.316,0.509,Triple
+Single family house,Temperate oceanic climate,198,0.17,0.13,Mineral Wool,0.207,Polyiso foam,0.274,0.593,Triple
+Educational,Mediterranean,891,0.23,0.08,Wood structure,0.212,Glass mineral wool,0.309,0.518,Triple
+Single family house,Mediterranean,807,0.2,0.18,Cellulose,0.286,Cotton wool,0.272,0.522,Triple
+Single family house,Humid subtropical,729,0.23,0.12,Wood structure,0.233,Glass mineral wool,0.336,0.599,Triple
+Apartment Building,Humid continental,591,0.24,0.17,Earth Wool,0.294,XPS,0.266,0.592,Triple
+Educational,Humid subtropical,474,0.23,0.14,PIR insulation board,0.256,Glass mineral wool,0.347,0.511,Triple
+Apartment Building,Humid subtropical,655,0.21,0.09,Biobased,0.286,EEPS (033),0.3,0.529,Triple
+Single family house,Humid continental,918,0.22,0.14,Expanded Polysterene,0.28,Mineral Wool,0.336,0.566,Triple
+Educational,Humid continental,731,0.17,0.11,PIR insulation board,0.237,Expanded Polysterene,0.27,0.553,Triple
+Single family house,Temperate oceanic climate,743,0.14,0.12,EEPS (033),0.209,Foam glass,0.27,0.55,Triple
+Apartment Building,Humid continental,881,0.15,0.14,PSE graphite,0.203,Cotton wool,0.278,0.555,Triple
+Educational,Humid subtropical,437,0.14,0.07,Expanded Polysterene,0.26,Foam glass,0.296,0.566,Triple
+Apartment Building,Mediterranean,403,0.23,0.09,Graphite EPS,0.233,Cotton wool,0.309,0.537,Triple
+Single family house,Humid continental,942,0.16,0.15,Rockwool,0.202,Polyiso foam,0.347,0.539,Triple
+Single family house,Humid subtropical,645,0.15,0.09,Earth Wool,0.219,Polyiso foam,0.291,0.51,Triple
+Educational,Humid continental,118,0.14,0.16,Cellulose,0.239,Expanded Polysterene,0.254,0.551,Triple
+Educational,Temperate oceanic climate,643,0.16,0.14,Cellulose,0.242,Foam glass,0.315,0.561,Triple
+Single family house,Mediterranean,906,0.2,0.11,Glass mineral wool,0.223,XPS,0.301,0.528,Triple
+Apartment Building,Mediterranean,482,0.23,0.16,Graphite EPS,0.267,EEPS (033),0.274,0.593,Triple
+Apartment Building,Temperate oceanic climate,599,0.14,0.16,Cellulose,0.202,Glass mineral wool,0.309,0.548,Triple
+Single family house,Temperate oceanic climate,195,0.13,0.13,EEPS (033),0.225,Expanded Polysterene,0.257,0.598,Triple
+Apartment Building,Humid continental,842,0.18,0.17,Expanded Polysterene,0.202,Polyiso foam,0.268,0.516,Triple
+Apartment Building,Humid continental,123,0.14,0.07,EEPS (033),0.222,Polyiso foam,0.304,0.553,Triple
+Educational,Humid subtropical,894,0.12,0.1,Expanded Polysterene,0.212,EEPS (033),0.267,0.576,Triple
+Apartment Building,Humid continental,259,0.1,0.15,EEPS (033),0.268,Foam glass,0.305,0.52,Triple
+Single family house,Mediterranean,369,0.24,0.13,Cellulose,0.203,Cotton wool,0.301,0.583,Triple
+Single family house,Humid continental,268,0.12,0.07,EPS80- graphite,0.264,EEPS (033),0.254,0.561,Triple
+Single family house,Temperate oceanic climate,813,0.14,0.11,Earth Wool,0.266,XPS,0.333,0.534,Triple
+Educational,Humid subtropical,644,0.17,0.19,Wood structure,0.28,EEPS (033),0.254,0.501,Triple
+Apartment Building,Humid subtropical,470,0.15,0.1,PSE graphite,0.259,Mineral Wool,0.291,0.523,Triple
+Educational,Temperate oceanic climate,380,0.19,0.1,PSE graphite,0.286,Polyurethane,0.279,0.599,Triple
+Apartment Building,Temperate oceanic climate,357,0.12,0.13,Graphite EPS,0.264,Polyurethane,0.27,0.51,Triple
+Educational,Humid subtropical,564,0.23,0.11,Biobased,0.202,Expanded Polysterene,0.265,0.579,Triple
+Apartment Building,Humid continental,682,0.15,0.07,Spray foam,0.212,Rockwool,0.336,0.554,Triple
+Single family house,Temperate oceanic climate,823,0.18,0.19,Graphite EPS,0.291,Foam glass,0.316,0.531,Triple
+Apartment Building,Humid subtropical,365,0.17,0.09,EEPS (033),0.265,Polyurethane,0.339,0.537,Triple
+Apartment Building,Mediterranean,746,0.15,0.17,Earth Wool,0.222,Expanded Polysterene,0.267,0.505,Triple
+Educational,Humid continental,114,0.13,0.1,PIR insulation board,0.244,Blown wool,0.345,0.51,Triple
+Educational,Temperate oceanic climate,203,0.23,0.13,Spray foam,0.212,Cotton wool,0.336,0.592,Triple
+Single family house,Humid continental,836,0.17,0.15,Earth Wool,0.26,Cotton wool,0.341,0.556,Triple
+Educational,Humid subtropical,392,0.21,0.19,Wood structure,0.221,Blown wool,0.276,0.599,Triple
+Single family house,Humid subtropical,532,0.18,0.11,Cellulose,0.243,Expanded Polysterene,0.301,0.579,Triple
+Single family house,Temperate oceanic climate,610,0.16,0.11,EEPS (033),0.238,Mineral Wool,0.328,0.587,Triple
+Educational,Temperate oceanic climate,660,0.25,0.16,Cellulose,0.237,EPS60- graphite,0.309,0.564,Triple
+Apartment Building,Humid continental,592,0.17,0.16,Earth Wool,0.26,EPS60- graphite,0.279,0.523,Triple
+Apartment Building,Humid continental,352,0.15,0.17,EEPS (033),0.217,Expanded Polysterene,0.268,0.531,Triple
+Apartment Building,Humid subtropical,138,0.12,0.14,Spray foam,0.282,Polyurethane,0.339,0.505,Triple
+Single family house,Temperate oceanic climate,353,0.24,0.17,Spray foam,0.212,XPS,0.334,0.576,Triple
+Single family house,Mediterranean,203,0.12,0.199,Expanded Polysterene,0.223,Expanded Polysterene,0.311,0.655,Triple
+Single family house,Mediterranean,203,0.13,0.132,EEPS (033),0.244,Expanded Polysterene,0.315,0.405,Triple
+Single family house,Mediterranean,189,0.14,0.115,EPS80- graphite,0.251,EPS60- graphite,0.329,0.457,Triple
+Single family house,Mediterranean,181,0.11,0.172,Glass mineral wool,0.233,Glass mineral wool,0.347,0.47,Triple
+Single family house,Mediterranean,187,0.09,0.143,Expanded Polysterene,0.216,Expanded Polysterene,0.324,0.551,Triple
+Single family house,Mediterranean,193,0.096,0.108,EEPS (033),0.261,Expanded Polysterene,0.302,0.593,Triple
+Single family house,Mediterranean,190,0.11,0.154,Glass mineral wool,0.204,Glass mineral wool,0.327,0.564,Triple
+Single family house,Mediterranean,194,0.14,0.211,EPS80- graphite,0.214,EPS60- graphite,0.345,0.466,Triple
+Single family house,Mediterranean,189,0.22,0.133,EEPS (033),0.244,Expanded Polysterene,0.303,0.45,Triple
+Single family house,Mediterranean,200,0.21,0.204,EEPS (033),0.255,Expanded Polysterene,0.313,0.495,Triple
+Apartment Building,Temperate oceanic climate,6525,0.14,0.11,Rockwool,0.2,EPS Sto insulation,0.22,0.55,Triple
+Apartment Building,Temperate oceanic climate,109,0.229,0.159,Polyurethane,0.115,Polyurethane,0.165,0.53,Triple
+Apartment Building,Temperate oceanic climate,613,0.145,0.098,Mineral Wool,0.2,Mineral Wool,0.4,0.57,Triple
+Apartment Building,Temperate oceanic climate,1067,0.162,0.077,Mineral Wool,0.3,Polyurethane,0.28,0.6,Triple
+Apartment Building,Temperate oceanic climate,2338,0.101,0.092,PSE graphite,0.3,Blown wool,0.25,0.5,Triple
+Apartment Building,Temperate oceanic climate,1318,0.17,0.077,Rockwool,0.25,Polyurethane,0.25,0.65,Triple
+Apartment Building,Humid continental,5563,0.18,0.09,Mineral Wool,0.14,Spray foam,0.28,0.6,Triple
+Apartment Building,Mediterranean,3956,0.144,0.072,Mineral Wool,0.16,Polyiso foam,0.3,0.63,Triple
+Apartment Building,Humid subtropical,312,0.266,0.131,Mineral Wool,0.14,Mineral Wool,0.24,0.6,Triple
+Apartment Building,Humid subtropical,54,0.264,0.119,Cellulose,0.125,Cellulose,0.286,0.64,Triple
+Educational,Temperate oceanic climate,2465,0.151,0.09,Rockwool,0.24,EPS W,0.3,0.6,Triple
+Educational,Humid continental,285,0.264,0.131,Biobased,0.3,Cotton wool,0.3,0.53,Triple
+Educational,Temperate oceanic climate,542,0.105,0.107,Earth Wool,0.25,Earth Wool,0.3,0.5,Triple
+Educational,Temperate oceanic climate,8264,0.107,0.078,PIR insulation board,0.2,Mineral Wool,0.5,0.52,Triple
+Educational,Mediterranean,555,0.16,0.42,Graphite EPS,0.15,XPS,0.2,1.3,Triple
+Educational,Humid continental,1539,0.139,0.179,Wood structure,0.35,Foam glass,0.4,0.65,Triple
+Educational,Humid continental,381,0.12,0.115,Polyurethane,0.2,Polyurethane,0.3,0.93,Triple
+Educational,Humid subtropical,1597,0.133,0.118,Rockwool,0.28,Rockwool,0.28,0.6,Triple
+Educational,Temperate oceanic climate,2041,0.14,0.1,Mineral Wool,0.2,Mineral Wool,0.4,0.65,Triple
+Educational,Temperate oceanic climate,762,0.13,0.103,Rockwool,0.24,Cellulose,0.21,0.56,Triple
